@@ -17,7 +17,7 @@
 
 ### Project Dashboard
 
- ![Screenshot 2024-07-05 183549](https://github.com/AlaskaDav/Talent-Sourcing-Project/assets/155531290/f90810f1-19f8-4439-aa89-14cd7ef17e69)
+ ![Coca Cola USA dashboard](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/dfaa2578-4f46-4323-9cbb-b01112273dbc)
 
 #### Data Source
 Youtube.com (.xlsx file)
