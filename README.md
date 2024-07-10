@@ -63,14 +63,16 @@ In the initial data preparation process, the following process was performed
 #### Results and Findings
 
 The analysis results are summarized as follows;
-1. 
+1. The total Sales for each brand and each retailer for the year 2022 and 2023 is visualized below: ![Brand by Sales Revenue](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/64540b03-012d-4c21-a1bc-0a1bf614e7b9)
+
+![Retailer by Sales Revenue](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/7d62a659-e29c-432b-97c4-973c6ebea6e2)
+
+2. The amount of units sold for both years is recorded to be *24,788,610 units*, average price is *$0.45* and the overall Operating profit is *$4,722,497*
 
 #### Recommendations
+
 Based on the analysis, I recommend the following actions:
- - Measuring the performance of employees is a great approach to selecting and appointing task and resposibilities to employees. However, Teron Corp organization should regularly consider chosing the employee with the following criteria rather than just comparing performance to help improve recruitment strategies.
-   (a) Emotional intelligence
-   (b) Technical and IT expertise
-   (c) Team spirit and collaborating strength
-   (d) Degree of commitment
- - Encourage that the source of hire shouldn't be the only metrics to measure the performance of an employee.
- - Put into Consideration the educational background and skills acquisition as a possible contribute to employee perfromance.
+ - Measuring the performance of each brands and retailers is a great approach to selecting the best performing brand ad retailer. However, Coca-cola organization should regularly consider population and potential customers in each state, the level of satisfaction each brands offer.
+ - Trade discount can be effected on percentage of purchase by the retailers to serve as an encouragement to higher purchase.
+ - Strategies for retailer retention should also be developed; this could include effective communication, ensure customer satisfaction, credit allowance, building trust, bonus on referral, product differentiation, price reduction, cost leadership, yearly bonus sales etc
+ - Put into Consideration the educational background and business acumen of retailer or potential retailers (offering business advices) would also indirectly contribute to revenue generation.
