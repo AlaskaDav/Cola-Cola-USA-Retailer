@@ -8,6 +8,7 @@
 
 - [Project Dashboard](#project-dashboard)
 - [Data Source](#data-source)
+- [Background](#background)
 - [Tools Used](#tools-used)
 - [ETL Processing](#etl-processing)
 - [Recommendations](#recommendations)
