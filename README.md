@@ -18,7 +18,8 @@
 
 ### Project Dashboard
 
- ![Coca Cola USA dashboard](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/dfaa2578-4f46-4323-9cbb-b01112273dbc)
+ ![Coca Cola USA dashboard](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/c5e0303c-5700-4464-9587-3cc4f55c8db9)
+
 
 #### Data Source
 Youtube.com (.xlsx file)
@@ -76,3 +77,6 @@ Based on the analysis, I recommend the following actions:
  - Trade discount can be effected on percentage of purchase by the retailers to serve as an encouragement to higher purchase.
  - Strategies for retailer retention should also be developed; this could include effective communication, ensure customer satisfaction, credit allowance, building trust, bonus on referral, product differentiation, price reduction, cost leadership, yearly bonus sales etc
  - Put into Consideration the educational background and business acumen of retailer or potential retailers (offering business advices) would also indirectly contribute to revenue generation.
+ 
+🖥️
+🍹
