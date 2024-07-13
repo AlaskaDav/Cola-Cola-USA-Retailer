@@ -61,7 +61,7 @@ In the initial data preparation process, the following process was performed
 - Providing insights, presenting informations and advice.
 - Creating outstanding reports for end user understanding, board of directors and shareholders.
 
-#### Results and Findings
+#### Results and Findings 
 
 The analysis results are summarized as follows;
 1. The total Sales for each brand and each retailer for the year 2022 and 2023 is visualized below: ![Brand by Sales Revenue](https://github.com/AlaskaDav/Cola-Cola-USA-Retailer/assets/155531290/64540b03-012d-4c21-a1bc-0a1bf614e7b9)
